@@ -19,8 +19,5 @@ Welcome to the **Student Progression Tracker**, a Python-based program that cate
 
 ---
 
-## Usage 💻
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/Student-Progression-Outcome-Prediction-System.git](https://github.com/AkshayanMohandas/Student-Progression-Outcome-Prediction-System.git
+
